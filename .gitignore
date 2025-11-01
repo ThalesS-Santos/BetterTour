@@ -1,0 +1,14 @@
+# .gitignore
+
+# Arquivos de Ambiente Virtual
+venv/
+*.env
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração local do Streamlit
+.streamlit/
+secrets.toml
